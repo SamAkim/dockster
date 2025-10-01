@@ -1,0 +1,11 @@
+streamlit
+pypdf
+pandas
+streamlit
+google-generativeai
+Pillow
+python-dotenv
+fitz
+PyMuPDF
+
+#python 3.12.2 version needed to run all of em packages
